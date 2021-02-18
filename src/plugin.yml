@@ -1,0 +1,1 @@
+name: enderpearlcooldownauthor: hokanosekaimain: fr.hokanosekai.Mainversion: 1.0commands:  setcooldowntimer:    description: Modify the cooldown time

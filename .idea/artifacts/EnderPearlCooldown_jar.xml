@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EnderPearlCooldown:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnderPearlCooldown_jar</output-path>
+    <root id="archive" name="EnderPearlCooldown.jar">
+      <element id="module-output" name="EnderPearlCooldown" />
+    </root>
+  </artifact>
+</component>
